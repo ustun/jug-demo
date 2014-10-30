@@ -1,14 +1,5 @@
-# clojure-jug
+LightTable indirip Ctrl-Space Instarepl yapin ya da core.clj dosyasini acip Instarepl yapin.
 
-A Clojure library designed to ... well, that part is up to you.
+Sunumlar sunum klasorunde.
 
-## Usage
 
-FIXME
-
-## License
-
-Copyright © 2014 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
